@@ -1,0 +1,4 @@
+com\vet\gateway\GatewayServiceApplication.class
+com\vet\gateway\GatewayController.class
+com\vet\gateway\BookingStorage.class
+com\vet\gateway\ResultListenerRoute.class
