@@ -1,0 +1,9 @@
+com\vet\legacy_vet_system\LegacyVetSystemApplication.class
+com\vet\legacy_vet_system\GetBookSlotResponse.class
+com\vet\legacy_vet_system\CancelBookingRequest.class
+com\vet\legacy_vet_system\BookingEndpoint.class
+com\vet\legacy_vet_system\GetBookSlotRequest.class
+com\vet\legacy_vet_system\ObjectFactory.class
+com\vet\legacy_vet_system\WebServiceConfig.class
+com\vet\legacy_vet_system\CancelBookingResponse.class
+com\vet\legacy_vet_system\package-info.class
