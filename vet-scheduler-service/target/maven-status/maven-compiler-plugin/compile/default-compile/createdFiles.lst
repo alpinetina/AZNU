@@ -1,0 +1,12 @@
+com\vet\vet_scheduler_service\SoapConfig.class
+com\vet\scheduler\wsdl\CancelBookingResponse.class
+com\vet\vet_scheduler_service\VetSchedulerServiceApplication.class
+com\vet\scheduler\wsdl\package-info.class
+com\vet\vet_scheduler_service\AppointmentRequest.class
+com\vet\vet_scheduler_service\AppointmentController.class
+com\vet\vet_scheduler_service\SoapClient.class
+com\vet\scheduler\wsdl\CancelBookingRequest.class
+com\vet\scheduler\wsdl\ObjectFactory.class
+com\vet\scheduler\wsdl\GetBookSlotRequest.class
+com\vet\vet_scheduler_service\SchedulerRoute.class
+com\vet\scheduler\wsdl\GetBookSlotResponse.class
